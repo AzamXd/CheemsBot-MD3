@@ -46,10 +46,10 @@ global.linkz1 = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5"
 global.linkz2 = "KOSONG"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/55bc542890c4c50b2a2a6f1b93677a82.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/55bc542890c4c50b2a2a6f1b93677a82.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/55bc542890c4c50b2a2a6f1b93677a82.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/55bc542890c4c50b2a2a6f1b93677a82.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
